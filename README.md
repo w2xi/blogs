@@ -14,6 +14,10 @@
 - [treei](https://www.npmjs.com/package/treei)
 - [nrmm](https://www.npmjs.com/package/nrmm)
 
+## 翻译
+
+- [使用defer和async高效地加载JavaScript](https://github.com/w2xi/blogs/issues/1)
+
 ## 其他
 
 - [VitePress + Github Pages + Github Actions 自动化部署静态站点](https://juejin.cn/post/7313135267572809740)
