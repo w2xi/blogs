@@ -8,6 +8,7 @@
 
 - [【源码阅读】yocto-queue 一个微型的链表实现的队列库](https://juejin.cn/spost/7323014966134734859)
 - [【源码阅读】@vue/shared —— Vue3 内部工具函数库](https://juejin.cn/spost/7325800661232582695)
+- [【每天一个npm包】: which-pm-runs](https://juejin.cn/post/7341320599736287273)
 
 ## 造轮子
 
