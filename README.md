@@ -19,6 +19,8 @@
 
 ## 造轮子
 
+- [v-rapper-mcp](https://www.npmjs.com/package/v-rapper-mcp)
+- [echarts-mcp](https://www.npmjs.com/package/echarts-mcp)
 - [treei](https://www.npmjs.com/package/treei)
 - [nrmm](https://www.npmjs.com/package/nrmm)
 
